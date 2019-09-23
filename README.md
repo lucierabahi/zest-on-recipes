@@ -4,6 +4,8 @@
 - MVC model: HTML - CSS - JavaScript - Webpack (babel, html-webpack-plugin, axios, core-js...) - Food2Fork API                     
 - Design adapted to my liking
 
+### webpack --mode development
+
 ## Demo:      
 https://lucierabahi.github.io/zest-on-recipes/
 
